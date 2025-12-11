@@ -7,3 +7,10 @@ HI! This is newline!
 * git config --global user.email <user-email@gmail.com>
 
 * git clone <repo-url>
+
+* git status
+
+* git add <filename>
+* git commit -m "YOUR COMMENTS"
+* git push
+
