@@ -1,13 +1,10 @@
 # Git & GitHub Commands
 
 ## Git Commands that I have learned so far:
-
 * git init 
 * git config --global user.name [username]
 * git config --global user.email [user-email@gmail.com]
-
 * git clone [repo-url]
-
 * git status
 
 ## Stages:
