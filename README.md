@@ -29,4 +29,9 @@
 * git checkout [branch-name]
 * git branch -d [branch-name] -- Delete branch
 
+## Merge Command:
+* git merge [branch-name]
 
+## Pull Command:
+* git pull
+* git pull origin [branch-name]
