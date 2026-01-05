@@ -39,3 +39,4 @@ Unstagged -> Stagged -> Commit -> Repo Push
 ## Pull Command:
 * git pull
 * git pull origin [branch-name]
+
