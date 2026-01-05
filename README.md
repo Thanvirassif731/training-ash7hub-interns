@@ -1,11 +1,18 @@
 # Git & GitHub Commands
 
+## Git Workflow
+Unstagged -> Stagged -> Commit -> Repo Push
+
 ## Git Commands that I have learned so far:
 * git init 
 * git config --global user.name [username]
 * git config --global user.email [user-email@gmail.com]
 * git clone [repo-url]
 * git status
+
+## Open Default Editor as VS Code
+* git config --global core.editor "code --wait"
+* git config --global -e -- To Verify the settings
 
 ## Stages:
 1. Unstaged
