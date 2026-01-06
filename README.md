@@ -40,3 +40,10 @@ Unstagged -> Stagged -> Commit -> Repo Push
 * git pull
 * git pull origin [branch-name]
 
+## Additional Commands
+### To check the configuration File of Git
+- View in **Windows:**
+    * notepad $env:USERPROFILE\.gitconfig
+- View in **Linux:**
+    * cd ~
+    * cat .gitconfig
